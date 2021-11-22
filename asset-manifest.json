@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://takashiag.github.io/csb-w4nq7/static/js/main.9ef26e9d.chunk.js",
+    "main.js.map": "https://takashiag.github.io/csb-w4nq7/static/js/main.9ef26e9d.chunk.js.map",
+    "runtime-main.js": "https://takashiag.github.io/csb-w4nq7/static/js/runtime-main.699648f3.js",
+    "runtime-main.js.map": "https://takashiag.github.io/csb-w4nq7/static/js/runtime-main.699648f3.js.map",
+    "static/js/2.1ccd6c47.chunk.js": "https://takashiag.github.io/csb-w4nq7/static/js/2.1ccd6c47.chunk.js",
+    "static/js/2.1ccd6c47.chunk.js.map": "https://takashiag.github.io/csb-w4nq7/static/js/2.1ccd6c47.chunk.js.map",
+    "index.html": "https://takashiag.github.io/csb-w4nq7/index.html",
+    "static/js/2.1ccd6c47.chunk.js.LICENSE.txt": "https://takashiag.github.io/csb-w4nq7/static/js/2.1ccd6c47.chunk.js.LICENSE.txt",
+    "static/media/myavatar.7b8602f5.jpg": "https://takashiag.github.io/csb-w4nq7/static/media/myavatar.7b8602f5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.699648f3.js",
+    "static/js/2.1ccd6c47.chunk.js",
+    "static/js/main.9ef26e9d.chunk.js"
+  ]
+}
